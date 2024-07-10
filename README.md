@@ -1,6 +1,6 @@
-# Home Assistant Aqua Temp & Hi Temp Heat Pumps
+# SKIPAU's Home Assistant Aqua Temp & Hi Temp Heat Pumps
 
-This is Home Assistant's an integration for PHINX Aqua Temp / HiTemp compatible heat pumps.
+Forked - This is Home Assistant's an integration for PHINX Aqua Temp / HiTemp compatible heat pumps.
 It allows controlling temperature, HVAC mode (heat, cool, auto, off) and fan mode (low, auto).
 It also reports all parameters available in sensors and sensors.
 
